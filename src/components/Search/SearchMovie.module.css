@@ -1,0 +1,16 @@
+.Search {
+    padding: 60px 0;
+  }
+  
+.Search form {
+    margin: 0 auto;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+  }
+
+  .Button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
